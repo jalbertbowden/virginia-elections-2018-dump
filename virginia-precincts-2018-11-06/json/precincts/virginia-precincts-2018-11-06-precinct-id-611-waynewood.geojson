@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_611-waynewood",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "611", "name": "WAYNEWOOD", "number": "612", "precinct_g": 611, "slug": "611-waynewood", "locality": "Fairfax County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.043871071432079, 38.721809945686807 ], [ -77.058404908910205, 38.726514063782986 ], [ -77.055675549759371, 38.73333239225947 ], [ -77.047692174243224, 38.732433852847841 ], [ -77.04339343358069, 38.729473958315417 ], [ -77.041960520026507, 38.72609122170693 ], [ -77.043871071432079, 38.721809945686807 ] ] ] } }
+]
+}

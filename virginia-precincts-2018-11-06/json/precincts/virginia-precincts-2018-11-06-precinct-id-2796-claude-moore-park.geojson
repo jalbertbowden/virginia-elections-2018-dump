@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_2796-claude-moore-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "2796", "name": "CLAUDE MOORE PARK", "number": "707", "precinct_g": 2796, "slug": "2796-claude-moore-park", "locality": "Loudoun County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.432122410636211, 39.016900859517889 ], [ -77.431235368912184, 39.027894753495474 ], [ -77.421546143926776, 39.028159029793017 ], [ -77.416428595518994, 39.02493485896305 ], [ -77.40714877440621, 39.022503517025697 ], [ -77.418543848860878, 39.007545478585044 ], [ -77.429393051485391, 39.004849860350149 ], [ -77.434647067850719, 39.004849860350149 ], [ -77.432122410636211, 39.016900859517889 ] ] ] } }
+]
+}

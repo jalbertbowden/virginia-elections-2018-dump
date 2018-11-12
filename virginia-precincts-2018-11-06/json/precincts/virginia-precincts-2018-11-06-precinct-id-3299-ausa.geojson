@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_3299-ausa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "3299", "name": "AUSA", "number": "048", "precinct_g": 143, "slug": "3299-ausa", "locality": "Arlington County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.088632561505534, 38.890418223516143 ], [ -77.087745519781507, 38.884551289710792 ], [ -77.093545407977004, 38.884445579191777 ], [ -77.094773619594875, 38.885714105419964 ], [ -77.096888872936759, 38.8859783817175 ], [ -77.093545407977004, 38.888515434173868 ], [ -77.088632561505534, 38.890418223516143 ] ] ] } }
+]
+}

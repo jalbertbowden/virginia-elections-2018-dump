@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_106-east-falls-church",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "106", "name": "EAST FALLS CHURCH", "number": "011", "precinct_g": 106, "slug": "106-east-falls-church", "locality": "Arlington County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.172287419478153, 38.893272407529551 ], [ -77.16812514677315, 38.896496578359518 ], [ -77.159664133405613, 38.903156341057475 ], [ -77.156115966509546, 38.90093642015816 ], [ -77.157617114042495, 38.894065236422165 ], [ -77.156388902424624, 38.890418223516143 ], [ -77.163553470195538, 38.886454079053067 ], [ -77.17037686807258, 38.891686749744323 ], [ -77.172287419478153, 38.893272407529551 ] ] ] } }
+]
+}

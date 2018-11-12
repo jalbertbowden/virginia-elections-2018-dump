@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_546-hutchison",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "546", "name": "HUTCHISON", "number": "325", "precinct_g": 546, "slug": "546-hutchison", "locality": "Fairfax County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.413562768410628, 38.971551046860348 ], [ -77.400530078465465, 38.960979994958819 ], [ -77.403259437616285, 38.957438692571813 ], [ -77.40441941525539, 38.956540153160184 ], [ -77.416701531434072, 38.960927139699315 ], [ -77.422842589523412, 38.962195665927496 ], [ -77.413562768410628, 38.971551046860348 ] ] ] } }
+]
+}

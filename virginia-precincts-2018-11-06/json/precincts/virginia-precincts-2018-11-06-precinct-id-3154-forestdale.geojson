@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_3154-forestdale",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "3154", "name": "FORESTDALE", "number": "403", "precinct_g": 3147, "slug": "3154-forestdale", "locality": "Fairfax County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.15659360436095, 38.779950731145199 ], [ -77.157480646084963, 38.775299468308532 ], [ -77.158981793617912, 38.772233863257085 ], [ -77.161779386747497, 38.769379679243677 ], [ -77.16546402160111, 38.767371179382387 ], [ -77.17092273990275, 38.768851126648599 ], [ -77.171809781626763, 38.777836520764893 ], [ -77.15659360436095, 38.779950731145199 ] ] ] } }
+]
+}

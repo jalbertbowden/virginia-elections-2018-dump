@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_2916-pinewood",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "2916", "name": "PINEWOOD", "number": "428", "precinct_g": 2916, "slug": "2916-pinewood", "locality": "Fairfax County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.116744960758979, 38.743057760008874 ], [ -77.103712270813801, 38.745647667724747 ], [ -77.102961697047334, 38.74316347052789 ], [ -77.106236928028324, 38.742529207413803 ], [ -77.102620527153476, 38.735816589456334 ], [ -77.10030057187528, 38.73301526070243 ], [ -77.111968582245041, 38.727095471637575 ], [ -77.116744960758979, 38.743057760008874 ] ] ] } }
+]
+}

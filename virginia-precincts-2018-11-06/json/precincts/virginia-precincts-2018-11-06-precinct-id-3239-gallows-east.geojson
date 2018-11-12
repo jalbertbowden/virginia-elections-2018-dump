@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_3239-gallows-east",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "3239", "name": "GALLOWS EAST", "number": "723", "precinct_g": 3239, "slug": "3239-gallows-east", "locality": "Fairfax County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.227966346154886, 38.883177052963596 ], [ -77.222371159895701, 38.884974131786855 ], [ -77.220733544405206, 38.875724461373018 ], [ -77.220324140532583, 38.865734817326079 ], [ -77.227556942282263, 38.865523396288047 ], [ -77.226738134537015, 38.875883027151545 ], [ -77.227966346154886, 38.883177052963596 ] ] ] } }
+]
+}

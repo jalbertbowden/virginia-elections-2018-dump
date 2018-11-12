@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_932-randolph",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "932", "name": "RANDOLPH", "number": "219", "precinct_g": 932, "slug": "932-randolph", "locality": "Henrico County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.497558796277119, 37.664863321312794 ], [ -77.498445838001132, 37.667453229028666 ], [ -77.495921180786624, 37.67025455778257 ], [ -77.49824113606482, 37.67517009691678 ], [ -77.484662574289487, 37.667611794807193 ], [ -77.486504891716294, 37.663436229306086 ], [ -77.497558796277119, 37.664863321312794 ] ] ] } }
+]
+}

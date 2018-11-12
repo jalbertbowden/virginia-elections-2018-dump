@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_645-magarity",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "645", "name": "MAGARITY", "number": "726", "precinct_g": 645, "slug": "645-magarity", "locality": "Fairfax County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.196510481941687, 38.923294194929881 ], [ -77.212818402867839, 38.913727392959004 ], [ -77.215957165891268, 38.909340406419872 ], [ -77.217867717296855, 38.910397511610022 ], [ -77.216366569763892, 38.920492866175977 ], [ -77.210430213610863, 38.931063918077506 ], [ -77.200331584752831, 38.927364049911972 ], [ -77.196510481941687, 38.923294194929881 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_3225-rotonda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "3225", "name": "ROTONDA", "number": "735", "precinct_g": 3225, "slug": "3225-rotonda", "locality": "Fairfax County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.241203738036361, 38.928421155102122 ], [ -77.246594222359221, 38.933918102090914 ], [ -77.241886077824063, 38.934499509945503 ], [ -77.233015660583902, 38.933495260014858 ], [ -77.231241577135862, 38.926729786797878 ], [ -77.233152128541434, 38.925566971088713 ], [ -77.236563827479969, 38.9289497076972 ], [ -77.241203738036361, 38.928421155102122 ] ] ] } }
+]
+}

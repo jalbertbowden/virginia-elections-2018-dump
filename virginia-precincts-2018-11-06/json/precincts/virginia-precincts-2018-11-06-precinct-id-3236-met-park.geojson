@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_3236-met-park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "3236", "name": "MET PARK", "number": "053", "precinct_g": 3236, "slug": "3236-met-park", "locality": "Arlington County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.051581511033149, 38.866210514661645 ], [ -77.051990914905772, 38.859973594039744 ], [ -77.056084953631995, 38.859709317742208 ], [ -77.059769588485608, 38.860555001894333 ], [ -77.058541376867737, 38.865417685769032 ], [ -77.054379104162734, 38.864836277914449 ], [ -77.054242636205203, 38.865999093623614 ], [ -77.051581511033149, 38.866210514661645 ] ] ] } }
+]
+}

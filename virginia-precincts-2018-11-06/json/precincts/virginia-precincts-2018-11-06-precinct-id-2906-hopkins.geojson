@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_2906-hopkins",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "2906", "name": "HOPKINS", "number": "214", "precinct_g": 2906, "slug": "2906-hopkins", "locality": "Chesterfield County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.463373572913099, 37.439382784253254 ], [ -77.453343178033833, 37.441655560412087 ], [ -77.453616113948911, 37.430185969098929 ], [ -77.461531255486292, 37.434837231935603 ], [ -77.463646508828177, 37.437902836987043 ], [ -77.463373572913099, 37.439382784253254 ] ] ] } }
+]
+}

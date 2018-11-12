@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "virginia-precincts-2018-11-06_slug_116-virginia-highlands",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "116", "name": "VIRGINIA HIGHLANDS", "number": "021", "precinct_g": 116, "slug": "116-virginia-highlands", "locality": "Arlington County" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -77.055334379865528, 38.853366686601291 ], [ -77.065023604850936, 38.853208120822771 ], [ -77.065160072808482, 38.8568551337288 ], [ -77.056016719653229, 38.857330831064367 ], [ -77.058814312782815, 38.858282225735501 ], [ -77.059769588485608, 38.860555001894333 ], [ -77.056084953631995, 38.859709317742208 ], [ -77.055334379865528, 38.853366686601291 ] ] ] } }
+]
+}
