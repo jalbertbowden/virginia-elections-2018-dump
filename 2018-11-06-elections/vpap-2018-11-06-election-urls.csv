@@ -1,0 +1,11 @@
+File Name,Full Path
+20181106_ussenate_precinctsdata.json,https://s3.amazonaws.com/vpap-production/media/liveelections/20181106_ussenate_precinctsdata.json
+election9736.json,https://s3.amazonaws.com/vpap-production/static/visuals_vamaps/results_json/election9736.json
+election9736tots.json,https://s3.amazonaws.com/vpap-production/static/visuals_vamaps/results_json/election9736tots.json
+nov18_resultsbycongressional.csv,https://s3.amazonaws.com/vpap-production/media/visuals/custom/datasets/nov18_resultsbycongressional.csv
+nov18_resultsbyhouse.csv,https://s3.amazonaws.com/vpap-production/media/visuals/custom/datasets/nov18_resultsbyhouse.csv
+nov18_resultsbysenate.csv,https://s3.amazonaws.com/vpap-production/media/visuals/custom/datasets/nov18_resultsbysenate.csv
+va_congressional_districts.json,https://vpap-production.s3.amazonaws.com/media/visuals/custom/gis/va_congressional_districts.json
+va_house_districts.json,https://vpap-production.s3.amazonaws.com/media/visuals/custom/gis/va_house_districts.json
+va_state_senate.json,https://vpap-production.s3.amazonaws.com/media/visuals/custom/gis/va_state_senate.json
+va-precincts-20181106.topojson,https://s3.amazonaws.com/vpap-production/static/maps_statewide/va-precincts-20181106.topojson
