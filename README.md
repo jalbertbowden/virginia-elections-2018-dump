@@ -1,7 +1,11 @@
 # Virginia Elections 2018 Data Dump  
 
-Virginia elections 2018 precints GIS data collection.
+Virginia elections 2018 precincts GIS data collection.
 
+**virginia-precincts-2018-11-06** directory contains Virginia Precincts for 2018-11-06 election; original format .topojson, converted to .geojson and .shp.  
+**2018-11-06-elections** directory contains various VPAP datasets used during 2018-11-06 election.  
+
+## Individual Precincts Original Sources
 ![Screenshot of Partially Complete 2018 Virginia Elections Dataset](https://raw.githubusercontent.com/jalbertbowden/virginia-elections-2018-dump/master/2018-virginia-elections-precincts-partially-complete-screenshot.png)  
 
 **json** directory is the original files found on AWS.  
